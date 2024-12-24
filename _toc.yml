@@ -1,0 +1,16 @@
+format: jb-book
+root: README.md
+
+parts:
+- caption: Paper and Doccs
+  chapters:
+  - file: mypaper.md
+- caption: Data and Models
+  chapters:
+  - file: SARIMAX.ipynb
+- caption: Outside links 
+  chapters:
+  - url: https://pvlib-python.readthedocs.io/en/stable/user_guide/package_overview.html
+    title: pvlib official docs  
+
+
