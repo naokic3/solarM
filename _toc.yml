@@ -7,13 +7,14 @@ parts:
 #   - file: mypaper.md
 - caption: Data and Models
   chapters:
+  - file: pv_visual.ipynb
   - file: SARIMAX.ipynb
   - file: prophet_solar.ipynb
   - file: prophet_simulated.ipynb
-
-- caption: Outside links 
+- caption: Other resources 
   chapters:
+  - url: https://www.dropbox.com/scl/fi/bdfm42m8bs13s2rtjrhky/Naoki_solar_poster_HHS.pdf?rlkey=nplwgsq1k1ut2eq5sv6w3fa1t&dl=0
+    title: Solar poster project   
   - url: https://pvlib-python.readthedocs.io/en/stable/user_guide/package_overview.html
     title: pvlib official docs  
-
 
